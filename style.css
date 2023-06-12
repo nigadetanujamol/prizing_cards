@@ -1,0 +1,77 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    /* color: #111111; */
+    list-style-type: none;
+}
+
+body{
+    background-color: rgb(242, 238, 246);
+}
+.heading{
+    text-align: center;
+    height:50px;
+    background-color:rgb(61, 215, 220) ;
+    color:rgb(233, 231, 231);
+    border-radius: 5px;
+    font-family:'Roboto Slab', serif;;
+}
+.card{
+    display: inline-block;
+    background-color: #f1f6f6;
+    border:0.5px #cccaca solid; 
+    width: 200px;
+    height: 280px; 
+    border-radius: 20px;
+}
+.container{
+     /* background-color: rgb(240, 244, 246);  */
+    
+    margin-top: 100px ; 
+    margin-left: 200px;
+    
+}
+
+  .basic_card{
+      margin-right: 40px;
+    
+}
+.standard_card{
+    bottom:40px;
+    position: relative;
+    margin-right:40px;
+
+
+}
+
+.head{
+    background-color: rgb(206, 35, 13);
+}
+li{
+    margin:10px;   /*space between  content of list lines */
+}
+#tick{
+    color:rgb(12, 225, 41)
+}
+i{
+    color: rgb(201, 9, 9);
+}
+#prize{
+    font-size:x-large;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.buy{
+    width:150px;
+    height:30px;
+    border: none;
+    background-color:rgb(61, 215, 220) ;
+    color:rgb(233, 231, 231);
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
