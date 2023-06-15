@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+   
+}
+body{
+    background-color: rgb(242, 238, 246);
+}
+.contain{
+     display: inline-block; 
+     border:0.5px 
+}
+.h{
+    height: 35px;
+    text-align: center;
+    padding-top: 7px;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bolder;
+}
+.a{
+    background-color:rgb(9, 202, 64);
+}
+.b{
+    background-color: rgb(228, 156, 12);
+}
+p{
+    height: 70px;
+}
