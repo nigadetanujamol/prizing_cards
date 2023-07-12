@@ -1,15 +1,23 @@
 *{
     box-sizing: border-box;
+    /* margin: 0px; */
+    /* padding: 0px; */
     text-align: center;
-   
+    background-color: black;
 }
 body{
     background-color: rgb(242, 238, 246);
 }
+
 .contain{
-     display: inline-block; 
-     border:0.5px 
+     display: inline-block;
+     background-color:  aliceblue;
+    
 }
+.one{
+    margin-right: 0.1px;
+}
+
 .h{
     height: 35px;
     text-align: center;
@@ -26,4 +34,7 @@ body{
 }
 p{
     height: 70px;
+    background-color: aliceblue;
 }
+
+
